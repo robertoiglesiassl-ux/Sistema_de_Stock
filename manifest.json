@@ -8,12 +8,13 @@
   "description": "Gestión Gastronómica 2026",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/robertoiglesiassl-ux/Sistema_de_Stock/main/icono .png",
+      "src": "https://raw.githubusercontent.com/robertoiglesiassl-ux/Sistema_de_Stock/main/favicon_512.png.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
   ]
 }
+
 
 

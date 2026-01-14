@@ -1,16 +1,17 @@
 {
-  "name": "Recetario y Costos 2026",
-  "short_name": "Costos2026",
+  "name": "Sistema de Stock Aries",
+  "short_name": "AriesStock",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff4b4b",
-  "description": "Sistema de Gestión Gastronómica Aries 1984",
+  "description": "Gestión Gastronómica 2026",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+      "src": "https://raw.githubusercontent.com/robertoiglesiassl-ux/Sistema_de_Stock/main/icono.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }

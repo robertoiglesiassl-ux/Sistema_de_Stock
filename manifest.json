@@ -8,7 +8,7 @@
   "description": "Gestión Gastronómica 2026",
   "icons": [
     {
-      "src": "https://sistemadestock-5edxwkq95xxxvpuordgbzb.streamlit.app/-/build/favicon_512.png",
+      "src": "https://raw.githubusercontent.com/robertoiglesiassl-ux/Sistema_de_Stock/main/icono.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"

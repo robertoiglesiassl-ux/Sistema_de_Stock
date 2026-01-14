@@ -1,4 +1,13 @@
 import streamlit as st
+
+# ⚠️ SIEMPRE PRIMERO
+st.set_page_config(
+    page_title="Recetario y Costos 2026",
+    page_icon="📦",   # o "icon.png" si lo agregás
+    layout="wide"
+)
+
+# Recién después los imports
 import materia_prima
 import precios_vigentes
 import costo_produccion
@@ -40,4 +49,5 @@ elif opcion == "Costo Final":
     costo_produccion.mostrar_pantalla()
 
 elif opcion == "Planificador de Compras":
+
     compras_necesarias.mostrar_pantalla()

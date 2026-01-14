@@ -8,12 +8,11 @@
   "description": "Gestión Gastronómica 2026",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/bobbyleu1/bleu-smart-flow/main/public/icon-192x192.png",
+      "src": "https://sistemadestock-5edxwkq95xxxvpuordgbzb.streamlit.app/-/build/favicon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
   ]
 }
-
 
